@@ -1,0 +1,23 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="sql-injection-detection",
+    version="1.0.0",
+    author="Research Team",
+    description="SQL Injection Detection using GAT and Multi-Expert DQN",
+    packages=find_packages(),
+    install_requires=[
+        "torch>=1.13.0",
+        "numpy>=1.21.0",
+        "pandas>=1.3.0",
+        "matplotlib>=3.5.0",
+        "seaborn>=0.11.0",
+        "networkx>=2.8.0",
+        "scikit-learn>=1.1.0",
+        "gymnasium>=0.26.0",
+        "tqdm>=4.64.0",
+        "psutil>=5.9.0",
+        "scipy>=1.9.0",
+    ],
+    python_requires=">=3.8",
+)
