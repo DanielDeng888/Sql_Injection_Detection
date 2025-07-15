@@ -451,13 +451,13 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 This implementation is based on our research paper:
 
 ```bibtex
-@article{sqlinjection2024,
+@article{sqlinjection2025,
   title={A SQL Injection Detection Model Integrating GAT and Interpretable DQN},
-  author={Research Team},
-  journal={Your Journal},
-  year={2024},
-  volume={XX},
-  pages={XXX-XXX}
+  author={Daniel},
+  journal={...},
+  year={2025},
+  volume={...},
+  pages={...}
 }
 ```
 
