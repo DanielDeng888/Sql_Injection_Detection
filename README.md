@@ -328,7 +328,7 @@ plot_multiple_roc_curves(models_metrics)
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/sql-injection-detection.git
+git clone https://github.com/DanielDeng888/sql-injection-detection.git
 cd sql-injection-detection
 
 # Create virtual environment
@@ -497,13 +497,13 @@ copies or substantial portions of the Software.
 
 ## 📞 Contact
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/sql-injection-detection/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/sql-injection-detection/discussions)
-- **Email**: research@youruni.edu
+- **Issues**: [GitHub Issues](https://github.com/DanielDeng888/sql-injection-detection/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/DanielDeng88/sql-injection-detection/discussions)
+- **Email**: DanielDengyuyang@163.com
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/sql-injection-detection&type=Date)](https://star-history.com/#yourusername/sql-injection-detection&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=DanielDeng888/sql-injection-detection&type=Date)](https://star-history.com/#DanielDeng888/sql-injection-detection&Date)
 
 ---
 
