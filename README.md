@@ -1,5 +1,4 @@
 # Sql_Injection_Detection
-# SQL Injection Detection with GAT and Multi-Expert DQN
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.13%2B-red.svg)](https://pytorch.org)
